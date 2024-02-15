@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **usmanghafoor571@gmail.com**
 
-- My Resume 📝 [https://drive.google.com/file/d/11DdcAYh0FicPFTGBr1REafI2EghyKxoc/view?usp=drive_link](https://drive.google.com/file/d/11DdcAYh0FicPFTGBr1REafI2EghyKxoc/view?usp=drive_link)
+- My Resume  [https://drive.google.com/file/d/11DdcAYh0FicPFTGBr1REafI2EghyKxoc/view?usp=drive_link](https://drive.google.com/file/d/11DdcAYh0FicPFTGBr1REafI2EghyKxoc/view?usp=drive_link)
 
 - ⚡ Fun fact **I am create Youtube Video**
 
