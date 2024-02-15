@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **usmanghafoor571@gmail.com**
 
-- know about my experience [file:///C:/Users/aliki/Downloads/Frontend%20Developer%20%20(3).pdf](file:///C:/Users/aliki/Downloads/Frontend%20Developer%20%20(3).pdf)
+- know about my experience [https://drive.google.com/file/d/11DdcAYh0FicPFTGBr1REafI2EghyKxoc/view?usp=drive_link](https://drive.google.com/file/d/11DdcAYh0FicPFTGBr1REafI2EghyKxoc/view?usp=drive_link)
 
 - ⚡ Fun fact **I am create Youtube Video**
 
