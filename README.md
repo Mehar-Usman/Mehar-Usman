@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mehar-usman" alt="mehar-usman" /></a> </p>
 
-- 🔭 I’m currently working on Quasar Project [IshopEco](https://www.ishopeco.com/)
+- 🔭 I’m currently working on Jazz World Hifazat Program [EFU Hifazat Program Merge in SIMSOS Jazz World App]([https://www.ishopeco.com/](https://play.google.com/store/apps/details?id=com.jazz.jazzworld&hl=en))
 
 - 🌱 I’m currently learning **Nuxt.js and Sass**
 
